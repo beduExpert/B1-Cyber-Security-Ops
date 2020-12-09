@@ -1,16 +1,21 @@
-
-agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks]  
-
-## Titulo de la Sesion 
+## Utilizar las herramientas básicas necesarias para realizar hacking etico
 
 ### OBJETIVOS 
 
-- Lo que esperamos que el alumno aprenda al finalizar la sesion 
+- Instalacion Kali 
+- MetaExploit
+- MfConsole
+- Servicios SSH y HTTP
+
 
 #### ORGANIZACION DE LA CLASE 
 
-- Tema que veran en el ejemplo
+- Agenda
 
-	- [Ejemplo 01](Ejemplo-01)
-	- [Reto 01](Reto-01)
+	- [Trubleshoot Kali Linux](trubleshoot)
+	- [Metasploit](metasp)
+	- [Msfconsole](Msfconsole)
+	- [Servicios SSH y HTTP](servicios)
+	- [Postwork](postwork)
+	
 
