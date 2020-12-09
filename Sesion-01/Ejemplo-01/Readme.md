@@ -1,27 +1,27 @@
 
-agrega el programa que se desarrollara con backticks> [agrega la sesion con backticks]
 
-## Titulo del Ejemplo
+
+## Metasploit 
 
 ### OBJETIVO
 
-- Lo que esperamos que el alumno aprenda
+- Configurar y conocer Metasploit
 
 #### REQUISITOS
 
-1. Lo necesario para desarrollar el ejemplo o el Reto
+1. Tener activo Kali Linux
 
 #### DESARROLLO
 
-Agrega las instrucciones generales del ejemplo o reto
-
+En el menu principal dar clic en el octavo apartado "Explotation Tools" y dar clic en "Metasploit framework"
 <details>
-	<summary>Solucion</summary>
+	<summary>Se solicita contraseña de root</summary>
+	
+	
         <p> Agrega aqui la solucion</p>
         <p>Recuerda! escribe cada paso para desarrollar la solución del ejemplo o reto </p>
 </details>
 
-Agrega una imagen dentro del ejemplo o reto para dar una mejor experiencia al alumno (Es forzoso que agregages al menos una) 
 
 ![imagen](https://picsum.photos/200/300)
 
