@@ -17,12 +17,10 @@ En el menu principal dar clic en el octavo apartado "Explotation Tools" y dar cl
 <details>
 	<summary>Se solicita contraseña de root</summary>
 	
-	
-        <p> Agrega aqui la solucion</p>
-        <p>Recuerda! escribe cada paso para desarrollar la solución del ejemplo o reto </p>
+	![imagen](http://www.intelleprova.com/curso/metaspl.jpg)
 </details>
 
 
-![imagen](https://picsum.photos/200/300)
+
 
 
