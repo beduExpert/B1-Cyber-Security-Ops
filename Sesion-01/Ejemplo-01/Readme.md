@@ -17,10 +17,9 @@ En el menu principal dar clic en el octavo apartado "Explotation Tools" y dar cl
 <details>
 	<summary>Se solicita contraseña de root</summary>
 	
-	![imagen](http://www.intelleprova.com/curso/metaspl.jpg)
+	
 </details>
 
 
 
-
-
+![imagen](http://wat.com.mx/curso/metaspl.jpg)
