@@ -22,4 +22,4 @@ En el menu principal dar clic en el octavo apartado "Explotation Tools" y dar cl
 
 
 
-![imagen](http://wat.com.mx/curso/metaspl.jpg)
+![imagen](img/1.png)
