@@ -12,7 +12,7 @@
 
 - Agenda
 
-	- [Trubleshoot Kali Linux](trubleshoot)
+	- [Trubleshoot Kali Linux](Ejemplo-01)
 	- [Metasploit](metasp)
 	- [Msfconsole](Msfconsole)
 	- [Servicios SSH y HTTP](servicios)
